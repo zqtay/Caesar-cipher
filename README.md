@@ -1,2 +1,2 @@
 # Caesar-cipher
-Encode or decode Ceasar cipher
+Encode or decode Ceasar cipher.
